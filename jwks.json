@@ -1,0 +1,20 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "x": "3oAkAK9UXojZ39OrRwpGYj5VDimvjFJlEBunWyOu9S8",
+      "y": "Uan2WnD2vMAczdildS04B5blozRjOS1PCA4fZhN6tIE",
+      "crv": "P-256",
+      "kid": "JllhBw9px6vGkBz_1GdCNJ-Eo5N8JhfDDXpnIj0o6jY",
+      "use": "sig",
+      "alg": "ES256"
+    },
+    {
+      "kty": "RSA",
+      "n": "oNavMcPs7NXaJXSJETTlqHWJ0hMq6UuBRYBvxsvY9wkpXEuE8H-n2HPztlKuxHxZcdT9euTtdW_fabohHA9yl6LV7Ewhno8UkGejicnHMIGir4VcQnkJeHHwdguYGzhrsuJJFcX-liKs2UXfoJjbmiRBdUadpsr1kyzOUSMZEbsTxnRApnayN6zytsBHurdLL5MsYEikPcx8MyRhoJmpgnUBwL1PhmomVRneATH2gjjb-HOG76gXEeuXIxYJmpXTRf2q1GX9WQnGPklk_f9NXBA1Oym9Q5Osvd4EHaxTWnzMT2CpmqhB4aRHUNxdNQcFPYH8fiZ339egYgVj4tJGZ5ziGg71_ncUnV2leMG8hpe0Bvvxo0g6fVkeY-w0bBmQTwvuAhjRxad8VEr66vuD0pdiygHSV9zfZ2mr7Nw8FLbZAtVimo1YF-dev4awSxbqEgTuSxrhu5uAH3oVnPkUPeH60rN40TS0NtNX2Z_Ha2Wfa_SlA2_nlNeGklMlngaT",
+      "e": "AQAB",
+      "kid": "O5wp0LuVBG2eFGyyq0Ny10rBPQcQDWACc-JrcAtCjCQ",
+      "use": "sig"
+    }
+  ]
+}

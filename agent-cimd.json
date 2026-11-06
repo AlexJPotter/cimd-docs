@@ -1,0 +1,17 @@
+{
+  "client_id": "https://alexjpotter.github.io/cimd-docs/agent-cimd.json",
+  "client_name": "Poppy Authentication Debugger",
+  "jwks_uri": "https://alexjpotter.github.io/cimd-docs/jwks.json",
+  "redirect_uris": [
+    "http://127.0.0.1:3000/oauth/callback",
+    "https://alexjpotter.github.io/cimd-docs/callback.html"
+  ],
+  "token_endpoint_auth_method": "private_key_jwt",
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ]
+}
