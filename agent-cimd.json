@@ -8,6 +8,7 @@
     "https://alexjpotter.github.io/cimd-docs/callback.html"
   ],
   "token_endpoint_auth_method": "private_key_jwt",
+  "token_endpoint_auth_signing_alg": "ES256",
   "grant_types": [
     "authorization_code",
     "refresh_token"
